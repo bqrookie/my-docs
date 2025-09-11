@@ -1,10 +1,10 @@
 - 入门文档
   - [首页](/)
-  - [快速开始](quickstart.md)
 
-- 编程参考
+- CNC
   - [gCode](gCode.md)
-  - [宏程序](宏程序.md)
+  - [mCode](mCode.md)
+  - [G73 • G81- G86](G73 • G81- G86.md)
 
-- 其他
-  - [新文档](新文档.md)
+- Other
+  - [About](About.md)
