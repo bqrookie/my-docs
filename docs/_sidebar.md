@@ -6,3 +6,4 @@
   - [gCode](gCode.md)
   - [mCode](mCode.md)
   - [G73-G86](G73andG81toG86.md)
+  - [宏程序](宏程序.md)
