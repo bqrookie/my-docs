@@ -1,9 +1,9 @@
 - 入门文档
   - [首页](README.md)
-  - [About](About.md)
+  - [关于](About.md)
 
 - CNC
-  - [gCode](gCode.md)
-  - [mCode](mCode.md)
   - [G73-G86](G73andG81toG86.md)
+  - [G代码](gCode.md)
+  - [M代码](mCode.md)
   - [宏程序](宏程序.md)
