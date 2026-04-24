@@ -1,6 +1,5 @@
 - Docs
   - [首页](README.md)
-  - [关于](About.md)
 
 - CNC
   - [G73-G86](G73andG81toG86.md)
