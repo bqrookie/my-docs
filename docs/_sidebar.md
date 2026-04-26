@@ -11,5 +11,5 @@
 
 - UG笔记
   - [第一章 认识 UG10 编程加工](第一章.md)
-  - [第二章 MILL PLANAR](第一章.md)
+  - [第二章 MILL PLANAR（2D加工）](第二章.md)
   
