@@ -10,7 +10,6 @@
   - [question](question.md)  - 
   - [四轴安装流程](四轴安装流程.md)
 
-- UG笔记
-  - [第一章 认识 UG10 编程加工](第一章.md)
-  - [第二章 MILL PLANAR（2D加工）](第二章.md)
+- 折弯
+  - [CAD](折弯CAD2018.md)
   
